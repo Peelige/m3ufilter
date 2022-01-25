@@ -2,11 +2,11 @@ package main
 
 import (
 	"flag"
-	"github.com/hoshsadiq/m3ufilter/config"
-	"github.com/hoshsadiq/m3ufilter/logger"
-	"github.com/hoshsadiq/m3ufilter/m3u"
-	"github.com/hoshsadiq/m3ufilter/server"
-	"github.com/hoshsadiq/m3ufilter/writer"
+	"github.com/peelige/m3ufilter/config"
+	"github.com/peelige/m3ufilter/logger"
+	"github.com/peelige/m3ufilter/m3u"
+	"github.com/peelige/m3ufilter/server"
+	"github.com/peelige/m3ufilter/writer"
 	"github.com/mitchellh/go-homedir"
 	"os"
 	"path/filepath"
